@@ -8,9 +8,9 @@
 
 I'm a passionate Data Science and AI enthusiast currently pursuing my Bachelor's Computer Applications (BCA) with a strong foundation in programming, machine learning, and data analytics. I love transforming raw data into meaningful insights and building intelligent solutions.
 
-- 🔭 I’m currently working on enhancing my skills in Deep Learning and Cloud Technologies
-- 🌱 I’m currently learning Advanced Machine Learning techniques and Cloud platforms
-- 👯 I’m looking to collaborate on Data Science and AI projects
+- 🔭 I'm currently working on enhancing my skills in Deep Learning and Cloud Technologies
+- 🌱 I'm currently learning Advanced Machine Learning techniques and Cloud platforms
+- 👯 I'm looking to collaborate on Data Science and AI projects
 - 💬 Ask me about Python, Machine Learning, Data Analysis, and AI
 - 📫 How to reach me: siddiqueaham05@gmail.com
 - ⚡ Fun fact: I enjoy solving complex problems and building practical AI applications
@@ -72,14 +72,6 @@ I'm a passionate Data Science and AI enthusiast currently pursuing my Bachelor's
 - **Data Science Essentials with Python** - Cisco (July 2025)
 - **OCI Certified Data Science Professional** - Oracle (August 2025)
 - **Artificial Intelligence** - LinkedIn (March 2025)
-
----
-
-## 📈 GitHub Stats
-
-![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddique-Aham&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddique-Aham&layout=compact&theme=radical)
 
 ---
 
