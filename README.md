@@ -1,23 +1,23 @@
-# Hi, I'm Mohammad Aham 👋
+# Hi, I'm Mohammad Aham 
 
 **Data Science & AI Enthusiast | BCA Student**
 
 ---
 
-## 📊 About Me
+##  About Me
 
 I'm a passionate Data Science and AI enthusiast currently pursuing my Bachelor's Computer Applications (BCA) with a strong foundation in programming, machine learning, and data analytics. I love transforming raw data into meaningful insights and building intelligent solutions.
 
-- 🔭 I'm currently working on enhancing my skills in Deep Learning and Cloud Technologies
-- 🌱 I'm currently learning Advanced Machine Learning techniques and Cloud platforms
-- 👯 I'm looking to collaborate on Data Science and AI projects
-- 💬 Ask me about Python, Machine Learning, Data Analysis, and AI
-- 📫 How to reach me: siddiqueaham05@gmail.com
-- ⚡ Fun fact: I enjoy solving complex problems and building practical AI applications
+-  I'm currently working on enhancing my skills in Deep Learning and Cloud Technologies
+-  I'm currently learning Advanced Machine Learning techniques and Cloud platforms
+-  I'm looking to collaborate on Data Science and AI projects
+-  Ask me about Python, Machine Learning, Data Analysis, and AI
+-  How to reach me: siddiqueaham05@gmail.com
+-  Fun fact: I enjoy solving complex problems and building practical AI applications
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -48,26 +48,26 @@ I'm a passionate Data Science and AI enthusiast currently pursuing my Bachelor's
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🤖 [AI Customer Support Chatbot](https://github.com/Siddique-Aham/Ai-customer-support-chatbot)
+###  [AI Customer Support Chatbot](https://github.com/Siddique-Aham/Ai-customer-support-chatbot)
 - Developed an AI-powered chatbot using Python, NLP, and Machine Learning
 - Built intent recognition system with NLTK and TF-IDF algorithms
 - Achieved **90%+ accuracy** in predicting customer queries
 
-### ❤️ [Heart Disease Predictor](https://github.com/Siddique-Aham/Heart-Disease-Predictor)
+###  [Heart Disease Predictor](https://github.com/Siddique-Aham/Heart-Disease-Predictor)
 - Developed predictive models (Logistic Regression, Random Forest, XGBoost)
 - Achieved **95% accuracy** on test data for heart disease risk prediction
 - Deployed Flask web application for real-time predictions
 
-### 📱 [SMS Spam Classifier](https://github.com/Siddique-Aham/SMS-Spam-Classifie)
+###  [SMS Spam Classifier](https://github.com/Siddique-Aham/SMS-Spam-Classifie)
 - Built SMS spam detection system using Machine Learning and NLP
 - Implemented text preprocessing and Naive Bayes model
 - Achieved **98% accuracy** in spam classification
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 - **Data Science Essentials with Python** - Cisco (July 2025)
 - **OCI Certified Data Science Professional** - Oracle (August 2025)
@@ -75,7 +75,7 @@ I'm a passionate Data Science and AI enthusiast currently pursuing my Bachelor's
 
 ---
 
-## 📞 Let's Connect
+##  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-aham)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Siddique-Aham)
